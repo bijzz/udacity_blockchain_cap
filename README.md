@@ -2,6 +2,18 @@
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
+# Versions
+
+- Truffle Version: v.5.2.0
+- Ganache CLI: v6.12.2
+- Node: v14.16.0
+- Solidity solc v0.5.17
+- ZoKrates Docker Image: zokrates/zokrates:0.4.6
+
+# Test
+
+![](img/test.png)
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
