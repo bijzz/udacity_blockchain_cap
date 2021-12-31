@@ -758,7 +758,7 @@ truffle deploy --network rinkeby
     }
     ]
   ```
-- OpenSea MarketPlace Storefront link: ![https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn](https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn)
+
 
 
 ### Minted Tokens
@@ -769,7 +769,7 @@ Minted tokens can be seen on the contract e.g. on etherscan [0x83597dCf0A848180f
 
 #### OpenSea
 
-OpenSea MarketPlace Storefront link: ![https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn](https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn)
+OpenSea MarketPlace Storefront link: [https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn](https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn)
 
 ![](img/OpenSea.png)
 
