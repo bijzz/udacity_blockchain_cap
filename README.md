@@ -773,6 +773,12 @@ OpenSea MarketPlace Storefront link: ![https://testnets.opensea.io/collection/un
 
 ![](img/OpenSea.png)
 
+The token owner can then put those houses / tokens for sale and other users / wallets are capable of buying them. See activity to show sales that happened.
+
+![](img/Token.Sell.Buy.png)
+
+
+
 ## Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
