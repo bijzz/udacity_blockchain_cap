@@ -42,13 +42,15 @@ truffle test ./test/TestSolnSquareVerifier.js
 truffle deploy --network rinkeby
 ```
 
+### Contract Details
+
 - Contract Addresses: 
     - `Verifier` at [0xa5a324F614e0B2925958B4285dEA1E63aC86282e](https://rinkeby.etherscan.io/address/0xa5a324F614e0B2925958B4285dEA1E63aC86282e)
     - `SolnSquareVerifier` at [0x83597dCf0A848180f7441F204fFdF697CF789B0D](https://rinkeby.etherscan.io/address/0x83597dCf0A848180f7441F204fFdF697CF789B0D)
 - Contract Abi's
-    - `SolnSquareVerifier`
+    - `SolnSquareVerifier` ABI
     ```json
-    "abi": [
+    [
     {
         "inputs": [
         {
@@ -756,8 +758,20 @@ truffle deploy --network rinkeby
     }
     ]
   ```
-- OpenSea MarketPlace Storefront link: 
+- OpenSea MarketPlace Storefront link: ![https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn](https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn)
 
+
+### Minted Tokens
+
+Minted tokens can be seen on the contract e.g. on etherscan [0x83597dCf0A848180f7441F204fFdF697CF789B0D](https://rinkeby.etherscan.io/address/0x83597dCf0A848180f7441F204fFdF697CF789B0D):
+
+![](img/Minted.Tokens.png)
+
+#### OpenSea
+
+OpenSea MarketPlace Storefront link: ![https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn](https://testnets.opensea.io/collection/unidentified-contract-dxii7n6znn)
+
+![](img/OpenSea.png)
 
 ## Project Resources
 
